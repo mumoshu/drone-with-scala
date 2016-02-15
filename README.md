@@ -2,4 +2,4 @@
 
 An simple Scala project with Drone test/build/publish
 
-6
+7
